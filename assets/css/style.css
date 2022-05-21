@@ -198,7 +198,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("https://storage.cloud.google.com/asia.artifacts.plucky-engine-350814.appspot.com/hero-bg.jpg") top center;
+  background: url("https://storage.googleapis.com/asia.artifacts.plucky-engine-350814.appspot.com/hero-bg.jpg") top center;
   background-size: cover;
 }
 #hero:before {
